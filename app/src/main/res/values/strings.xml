@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Food Menu</string>
+    <string name="text1">Spicy Tendercrisp</string>
+    <string name="text2">Long Chicken</string>
+    <string name="text3">Tendergrill</string>
+    <string name="text4">French Chicken</string>
+    <string name="username">Username:</string>
+    <string name="title_activity_userlogin">userlogin</string>
+    <string name="password">Password:</string>
+    <string name="phone">Contact:</string>
+    <string name="email">Email:</string>
+    <string name="amount">Amount</string>
+    <string name="Logout">Logout</string>
+    <string name="address">Please leave your address here.</string>
+    <string name="delivery">Order now !MooDelivery 24hours/7days</string>
+    <string name="MooDelivery">MooDelivery</string>
+
+
+</resources>
